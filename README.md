@@ -72,5 +72,10 @@
 
 ### 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Firebase Cloud Messaging](https://medium.com/@mariappan/firebase-cloud-messaging-ce6a959dd1e2?source=rss-5a62cfdac140------2)
+- [The {hey} fever](https://medium.com/@mariappan/the-hey-fever-61d45b640f56?source=rss-5a62cfdac140------2)
+- [Thinking through Linkedin’s Endorsement feature](https://medium.com/@mariappan/thinking-through-linkedins-endorsement-feature-189cfb39c214?source=rss-5a62cfdac140------2)
+- [Breaking the product buzz — part 2](https://medium.com/@mariappan/breaking-the-product-buzz-part-2-572afab16562?source=rss-5a62cfdac140------2)
+- [Breaking the product buzz — Part 1](https://medium.com/@mariappan/breaking-the-product-buzz-part-1-aa4be0a3cd8d?source=rss-5a62cfdac140------2)
 <!-- BLOG-POST-LIST:END -->
 
