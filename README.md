@@ -5,7 +5,8 @@
 <br/>
 
   *A small gist about me:*  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <span style="margin: 10px">![visitors](https://visitor-badge.glitch.me/badge?page_id=Marigameo.Marigameo)</span>
-- 🔭 I’m currently experimenting <span style="color: #55efc4">open source</span> world
+- 🔭 I’m currently teaching <span style="color: #55efc4">live online courses on popular web topics (cohorts based flexible sessions)</span> & running my own foundation named [Thatpam](https://thatpam.netlify.app/)
+- I'm also working on building simple UI components that I can plug & play in my side projects (also published in as a npm package). More info [here](https://nutro.netlify.app/)
 - 🌱 I’m currently learning <span style="color: rgb(212, 0, 255)">Next.JS</span>, <span style="color: #8dd6f9">Webpack</span>, <span style="color: #d64292">GraphQL</span>
 - 👯 I’m looking to collaborate on <span style="color: #55efc4">javascript (react, vue, nuxt.js, next.js)</span>, <span style="color: #d64292">GraphQL</span>, <span style="color: #fed330">Firebase</span>, <span style="color: #8dd6f9">Node.JS</span> & PWA development
 - 💬 Ask me about products, startups, javascript & web performance
