@@ -72,7 +72,7 @@
 
 ### 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Vite — witnessing the next-gen frontend tooling (Part-2)](https://medium.com/@mariappan/vite-witnessing-the-next-gen-frontend-tooling-part-2-558b233d6b1c?source=rss-5a62cfdac140------2)
+- [Vite — witnessing the next-gen frontend tooling (Part-2)](https://medium.com/geekculture/vite-witnessing-the-next-gen-frontend-tooling-part-2-558b233d6b1c?source=rss-5a62cfdac140------2)
 - [Vite — witnessing the next-gen frontend tooling (Part-1)](https://medium.com/geekculture/vite-witnessing-the-next-gen-frontend-tooling-part-1-a157f4033c33?source=rss-5a62cfdac140------2)
 - [Firebase Cloud Messaging](https://medium.com/@mariappan/firebase-cloud-messaging-ce6a959dd1e2?source=rss-5a62cfdac140------2)
 - [The {hey} fever](https://medium.com/@mariappan/the-hey-fever-61d45b640f56?source=rss-5a62cfdac140------2)
