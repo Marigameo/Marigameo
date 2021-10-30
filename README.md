@@ -9,7 +9,7 @@
 - I'm also trying to contribute to open source projects involving javascript. Feel free to loop me in if any!
 - I'm also working on building simple UI components that I can plug & play in my side projects (also published in as a npm package). More info [here](https://nutro.netlify.app/)
 - 🌱 I’m currently learning <span style="color: rgb(212, 0, 255)">Web performance optimization, build tools, unit testing and advanced frontend stuffs.</span>
-- 👯 I’m looking to collaborate on <span style="color: #55efc4">javascript (react, vue, nuxt.js, next.js)</span>, <span style="color: #d64292">Tutorials, tech blogs</span>, <span style="color: #fed330">SaaS applications</span>, <span style="color: #8dd6f9">Node.JS</span> & UX
+- 👯 I’m looking to collaborate on <span style="color: #55efc4">javascript (react, vue, nuxt.js, next.js)</span>, <span style="color: #d64292">Tutorials, tech blogs</span>, <span style="color: #fed330">SaaS applications</span>, <span style="color: #8dd6f9">Node.JS</span> & product development
 - 💬 Ask me about products, startups, javascript & web performance
 - 📫 How to reach me: [LinkedIn Handle](https://www.linkedin.com/in/marigameo/) / mariappangamoe@gmail.com
 - 😄 Portfolio: [https://mariappan.netlify.app/](https://mariappan.netlify.app/)
