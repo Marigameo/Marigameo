@@ -73,11 +73,10 @@
 
 ### 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Mixins in Javascript — simplified](https://medium.com/@mariappan/mixins-in-javascript-simplified-58782141519b?source=rss-5a62cfdac140------2)
-- [Vite — witnessing the next-gen frontend tooling &lpar;Part-2&rpar;](https://medium.com/@mariappan/vite-witnessing-the-next-gen-frontend-tooling-part-2-558b233d6b1c?source=rss-5a62cfdac140------2)
-- [Vite — witnessing the next-gen frontend tooling &lpar;Part-1&rpar;](https://medium.com/geekculture/vite-witnessing-the-next-gen-frontend-tooling-part-1-a157f4033c33?source=rss-5a62cfdac140------2)
-- [Firebase Cloud Messaging](https://medium.com/@mariappan/firebase-cloud-messaging-ce6a959dd1e2?source=rss-5a62cfdac140------2)
-- [The {hey} fever](https://medium.com/@mariappan/the-hey-fever-61d45b640f56?source=rss-5a62cfdac140------2)
+- [Git — correlating development](https://dev.to/marigameo/git-correlating-development-1pcg)
+- [Developer’s draft on AWS jargons](https://dev.to/marigameo/developer-s-draft-on-aws-jargons-88d)
+- [Web Browser internals](https://dev.to/marigameo/web-browser-internals-2c1m)
+- [Exploring MongoDB](https://dev.to/marigameo/exploring-mongodb-ck9)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
