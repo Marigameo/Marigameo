@@ -73,11 +73,11 @@
 
 ### 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Proxies in Javascript simplified](https://medium.com/@mariappan/proxies-in-javascript-simplified-ca9d5c976bbe?source=rss-5a62cfdac140------2)
+- [Proxies in Javascript simplified](https://dev.to/marigameo/proxies-in-javascript-simplified-3c95)
 - [Reactive Programming](https://dev.to/marigameo/reactive-programming-51j0)
 - [Reactive Programming](https://medium.com/@mariappan/reactive-programming-32e2f483198c?source=rss-5a62cfdac140------2)
 - [Mixins in Javascript — simplified](https://medium.com/@mariappan/mixins-in-javascript-simplified-58782141519b?source=rss-5a62cfdac140------2)
-- [Vite — witnessing the next-gen frontend tooling &lpar;Part-2&rpar;](https://medium.com/@mariappan/vite-witnessing-the-next-gen-frontend-tooling-part-2-558b233d6b1c?source=rss-5a62cfdac140------2)
-- [Vite — witnessing the next-gen frontend tooling &lpar;Part-1&rpar;](https://medium.com/geekculture/vite-witnessing-the-next-gen-frontend-tooling-part-1-a157f4033c33?source=rss-5a62cfdac140------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
