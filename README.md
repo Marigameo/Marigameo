@@ -73,11 +73,11 @@
 
 ### 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [What’s new with Vue3](https://medium.com/@mariappan/whats-new-with-vue3-5b6562d3898b?source=rss-5a62cfdac140------2)
 - [What is the point of SSR these days?](https://medium.com/@mariappan/what-is-the-point-of-ssr-these-days-cc2b0c4c93d0?source=rss-5a62cfdac140------2)
 - [Server-side rendering simplified](https://medium.com/@mariappan/server-side-rendering-simplified-fd708d5520ba?source=rss-5a62cfdac140------2)
 - [Proxies in Javascript simplified](https://medium.com/@mariappan/proxies-in-javascript-simplified-ca9d5c976bbe?source=rss-5a62cfdac140------2)
 - [Proxies in Javascript simplified](https://dev.to/marigameo/proxies-in-javascript-simplified-3c95)
-- [Reactive Programming](https://dev.to/marigameo/reactive-programming-51j0)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
