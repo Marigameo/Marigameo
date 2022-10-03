@@ -75,8 +75,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Localiz&lpar;s&rpar;ing your Marketplace apps with Crayons](https://medium.com/@mariappan/localiz-s-ing-your-marketplace-apps-with-crayons-32761e282320?source=rss-5a62cfdac140------2)
 - [How does Google Authenticator work?](https://medium.com/@mariappan/how-does-google-authenticator-work-c520035ec2?source=rss-5a62cfdac140------2)
-- [What makes Pinia the new default?](https://medium.com/@mariappan/what-makes-pinia-the-new-default-d29c5359de15?source=rss-5a62cfdac140------2)
-- [What’s new with Vue3](https://medium.com/@mariappan/whats-new-with-vue3-5b6562d3898b?source=rss-5a62cfdac140------2)
+- [What makes Pinia the new default?](https://medium.com/front-end-weekly/what-makes-pinia-the-new-default-d29c5359de15?source=rss-5a62cfdac140------2)
+- [What’s new with Vue3](https://medium.com/front-end-weekly/whats-new-with-vue3-5b6562d3898b?source=rss-5a62cfdac140------2)
 - [What is the point of SSR these days?](https://medium.com/@mariappan/what-is-the-point-of-ssr-these-days-cc2b0c4c93d0?source=rss-5a62cfdac140------2)
 <!-- BLOG-POST-LIST:END -->
 
