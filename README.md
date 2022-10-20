@@ -5,11 +5,14 @@
 <br/>
 
   *A small gist about me:*  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <span style="margin: 10px">![visitors](https://visitor-badge.glitch.me/badge?page_id=Marigameo.Marigameo)</span>
-- 🔭 I’m currently trying to colloborate with colleges & communities for tech talks, mentoring sessions, teaching and career guidance. You can check my [youtube channel](https://www.youtube.com/channel/UC8la8F_45prD3Ofu9E7HGbg) & I'm also teaching <span style="color: #55efc4">live online courses on popular web topics (cohorts based flexible sessions)</span> & running my own foundation named [Thatpam](https://thatpam.netlify.app/). Feel free to check my blogs [here](https://medium.com/@mariappan) & let me know if it sounds convincing enough :) 
-- I'm also trying to contribute to open source projects involving javascript. Feel free to loop me in if any!
-- I'm also working on building simple UI components that I can plug & play in my side projects (also published in as a npm package). More info [here](https://nutro.netlify.app/)
-- 🌱 I’m currently learning <span style="color: rgb(212, 0, 255)">Web performance optimization, build tools, unit testing and advanced frontend stuffs.</span>
-- 👯 I’m looking to collaborate on <span style="color: #55efc4">javascript (react, vue, nuxt.js, next.js)</span>, <span style="color: #d64292">Tutorials, tech blogs</span>, <span style="color: #fed330">SaaS applications</span>, <span style="color: #8dd6f9">Node.JS</span> & product development
+- 🔭 I’m currently trying to contribute to open source projects involving javascript. Feel free to loop me in if any!
+- I'm also trying to break into silos of SaaS by experimenting saas products, crafting cool micro-saas ideas around it. 
+- Trying to be consitent with writing. Nudge me with your feedbacks and feel free to check a few [here](https://medium.com/@mariappan)
+- I do occassionally upload videos around tech [youtube channel](https://www.youtube.com/channel/UC8la8F_45prD3Ofu9E7HGbg) 
+- I'm also teaching <span style="color: #55efc4">live online courses on popular web topics (cohorts based flexible sessions)</span> & running my own foundation named [Thatpam](https://thatpam.netlify.app/). 
+- Tried working on building simple UI components that I can plug & play in my side projects (also published in as a npm package). More info [here](https://nutro.netlify.app/)
+- 🌱 Also, learning <span style="color: rgb(212, 0, 255)">Web performance optimization, build tools, unit testing and advanced frontend stuffs.</span>
+- 👯 I’d love to collaborate on <span style="color: #55efc4">javascript (react, vue, nuxt.js, next.js)</span>, <span style="color: #d64292">Tutorials, tech blogs</span>, <span style="color: #fed330">SaaS applications</span>, <span style="color: #8dd6f9">Node.JS</span> & product development
 - 💬 Ask me about products, startups, javascript & web performance
 - 📫 How to reach me: [LinkedIn Handle](https://www.linkedin.com/in/marigameo/) / mariappangamoe@gmail.com
 - 😄 Portfolio: [https://mariappan.netlify.app/](https://mariappan.netlify.app/)
