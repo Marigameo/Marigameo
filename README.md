@@ -76,11 +76,11 @@
 
 ### 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [Monorepos at scale](https://medium.com/@mariappan/monorepos-at-scale-4cbfd221f352?source=rss-5a62cfdac140------2)
 - [Maintaining web accessibility in your vue/nuxt applications](https://medium.com/@mariappan/maintaining-web-accessibility-in-your-vue-nuxt-applications-6d970429c197?source=rss-5a62cfdac140------2)
 - [Localiz&lpar;s&rpar;ing your Marketplace apps with Crayons](https://medium.com/freshworks-developer-blog/localiz-s-ing-your-marketplace-apps-with-crayons-32761e282320?source=rss-5a62cfdac140------2)
 - [How does Google Authenticator work?](https://medium.com/@mariappan/how-does-google-authenticator-work-c520035ec2?source=rss-5a62cfdac140------2)
 - [What makes Pinia the new default?](https://medium.com/front-end-weekly/what-makes-pinia-the-new-default-d29c5359de15?source=rss-5a62cfdac140------2)
-- [What’s new with Vue3](https://medium.com/front-end-weekly/whats-new-with-vue3-5b6562d3898b?source=rss-5a62cfdac140------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
