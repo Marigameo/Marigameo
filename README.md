@@ -76,11 +76,11 @@
 
 ### 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
-- [Proxies in Javascript simplified](https://dev.to/marigameo/proxies-in-javascript-simplified-3c95)
-- [Reactive Programming](https://dev.to/marigameo/reactive-programming-51j0)
-- [Git — correlating development](https://dev.to/marigameo/git-correlating-development-1pcg)
-- [Developer’s draft on AWS jargons](https://dev.to/marigameo/developer-s-draft-on-aws-jargons-88d)
-- [Web Browser internals](https://dev.to/marigameo/web-browser-internals-2c1m)
+- [Eyes on: Interop2023](https://medium.com/@mariappan/eyes-on-interop2023-30166b32ee2c?source=rss-5a62cfdac140------2)
+- [Authoring a vite plugin](https://medium.com/@mariappan/authoring-a-vite-plugin-52cedf5aa07e?source=rss-5a62cfdac140------2)
+- [Monorepos at scale](https://medium.com/@mariappan/monorepos-at-scale-4cbfd221f352?source=rss-5a62cfdac140------2)
+- [Maintaining web accessibility in your vue/nuxt applications](https://medium.com/@mariappan/maintaining-web-accessibility-in-your-vue-nuxt-applications-6d970429c197?source=rss-5a62cfdac140------2)
+- [Localiz&lpar;s&rpar;ing your Marketplace apps with Crayons](https://medium.com/freshworks-developer-blog/localiz-s-ing-your-marketplace-apps-with-crayons-32761e282320?source=rss-5a62cfdac140------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
