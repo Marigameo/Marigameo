@@ -74,11 +74,11 @@ If you’re building something around **learning, mentoring, or dev education**,
 
 ### 📝 Latest Articles
 <!-- BLOG-POST-LIST:START -->
+- [How we migrated Freshworks’ critical monorepo tackling tech debts](https://medium.com/@mariappan/how-we-migrated-freshworks-critical-monorepo-tackling-tech-debts-6080fd2cd85e?source=rss-5a62cfdac140------2)
 - [Thrissur Pooram: How a Crowd-Hater Accidentally Found the Experience of a Lifetime](https://medium.com/@mariappan/thrissur-pooram-how-a-crowd-hater-accidentally-found-the-experience-of-a-lifetime-794e7f06cc70?source=rss-5a62cfdac140------2)
 - [Adding sitemaps to a Next.JS project](https://medium.com/@mariappan/adding-sitemaps-to-a-next-js-project-52177664f283?source=rss-5a62cfdac140------2)
 - [Eyes on: Interop2023](https://medium.com/@mariappan/eyes-on-interop2023-30166b32ee2c?source=rss-5a62cfdac140------2)
 - [Authoring a vite plugin](https://medium.com/@mariappan/authoring-a-vite-plugin-52cedf5aa07e?source=rss-5a62cfdac140------2)
-- [Monorepos at scale](https://medium.com/@mariappan/monorepos-at-scale-4cbfd221f352?source=rss-5a62cfdac140------2)
 <!-- BLOG-POST-LIST:END -->
 
 <br/>
